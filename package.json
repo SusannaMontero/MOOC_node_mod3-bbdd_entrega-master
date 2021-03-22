@@ -23,6 +23,8 @@
         "sequelize": "^5.21.3",
         "sequelize-cli": "^5.5.0",
         "sqli": "0.0.4",
+        "sqlite": "^4.0.19",
         "sqlite3": "^4.0.9"
     }
 }
+// hola que tal
