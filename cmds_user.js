@@ -6,6 +6,7 @@ exports.help = (rl) =>
     `  Commands (params are requested after):
     > h              ## show help
     >
+    > p              ## play
     > lu | ul | u    ## users: list all
     > cu | uc        ## user: create
     > ru | ur | r    ## user: read (show age)

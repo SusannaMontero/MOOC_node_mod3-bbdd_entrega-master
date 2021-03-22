@@ -25,6 +25,7 @@ rl.on('line', async (line) => {
     if      ('' ===cmd)   {}
     else if ('h' ===cmd)  { user.help(rl);}
 
+    else if (['p'].includes(cmd)) { await quiz.play(rl);}
     else if (['lu', 'ul', 'u'].includes(cmd)) { await user.list(rl);}
     else if (['cu', 'uc'].includes(cmd))      { await user.create(rl);}
     else if (['ru', 'ur', 'r'].includes(cmd)) { await user.read(rl);}
