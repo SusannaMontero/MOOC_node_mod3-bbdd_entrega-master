@@ -1,5 +1,5 @@
 {
-    "name": "MOOC_node_mod3-bbdd_entrega",
+    "name": "Reto-4_SUSANAMONTERO",
     "author": "ging-moocs",
     "license": "GNU",
     "version": "0.0.0",
@@ -8,7 +8,7 @@
     },
     "info": {
         "githubURL": "ging-moocs/MOOC_node_mod3-bbdd_entrega",
-        "serverUrl": "https://autocorector.dit.upm.es/",
+        "serverUrl": "https://github.com/SusannaMontero/Reto-4_SusanaMontero",
         "courseId": "2",
         "assignmentId": "9"
     },
